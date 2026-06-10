@@ -1,0 +1,11 @@
+{
+  "name": "longform-ai-landing",
+  "version": "1.0.0",
+  "description": "LongForm AI — The Content Engine for Authority-First Brands",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "vercel-deploy": "vercel --prod"
+  }
+}
